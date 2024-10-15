@@ -44,8 +44,6 @@ todolist-flask/
 ├── app.py               # Main Flask app
 ├── templates/           # HTML templates
 │   └── todolist.html     # To-Do list template
-├── static/              # Static files (CSS)
-│   └── style.css        # Styles
 └── README.md            # This file
 ```
 
